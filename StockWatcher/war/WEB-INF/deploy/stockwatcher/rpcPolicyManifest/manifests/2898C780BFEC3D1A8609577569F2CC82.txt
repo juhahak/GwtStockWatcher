@@ -1,0 +1,2 @@
+serviceClass: com.nuvostaq.stockwatcher.client.GreetingService
+path: DC30FE852A086270226E4B173CDEE013.gwt.rpc

@@ -7,7 +7,7 @@
 
   <!-- Servlets -->
   <servlet>
-    <servlet-name>greetServlet ttt</servlet-name>
+    <servlet-name>greetServlet</servlet-name>
     <servlet-class>com.nuvostaq.stockwatcher.server.GreetingServiceImpl</servlet-class>
   </servlet>
   

@@ -2,3 +2,5 @@ StockWatcher/.gwt
 StockWatcher/.settings
 StockWatcher/gwt-unitCache
 StockWatcher/war/WEB-INF/classes
+StockWatcher/war/WEB-INF/deploy
+StockWatcher/war/stockwatcher

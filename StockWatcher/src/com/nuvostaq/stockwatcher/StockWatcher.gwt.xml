@@ -15,6 +15,7 @@
 
   <!-- Specify the app entry point class.                         -->
   <entry-point class='com.nuvostaq.stockwatcher.client.StockWatcher'/>
+  <extend-property name="locale" values="de,fi"/>
 
   <!-- Specify the paths for translatable code                    -->
   <source path='client'/>
